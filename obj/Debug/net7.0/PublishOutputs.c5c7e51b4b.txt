@@ -1,0 +1,7 @@
+C:\Projects\actions\publish\actions.exe
+C:\Projects\actions\publish\appsettings.Development.json
+C:\Projects\actions\publish\appsettings.json
+C:\Projects\actions\publish\actions.dll
+C:\Projects\actions\publish\actions.deps.json
+C:\Projects\actions\publish\actions.runtimeconfig.json
+C:\Projects\actions\publish\actions.pdb
