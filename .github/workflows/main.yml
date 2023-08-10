@@ -50,8 +50,8 @@ jobs:
       - name: Azure authentication
         uses: azure/login@v1
         with:
-            creds: ${{ secrets.AZURE_CLIENT_ID }}
-            password: ${{ secrets.AZURE_CLIENT_SECRET }}
+            client-id: ${{ secrets.AZURE_CLIENT_ID }}
+            creds: ${{ secrets.AZURE_CLIENT_SECRET }}
         
       - name: Deployment
         uses: azure/webapps-deploy@v2
