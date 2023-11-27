@@ -29,8 +29,3 @@ C:\Projects\actions\obj\Debug\net7.0\refint\actions.dll
 C:\Projects\actions\obj\Debug\net7.0\actions.pdb
 C:\Projects\actions\obj\Debug\net7.0\actions.genruntimeconfig.cache
 C:\Projects\actions\obj\Debug\net7.0\ref\actions.dll
-C:\Projects\actions\bin\Debug\net7.0\publish\web.config
-C:\Projects\actions\bin\Debug\net7.0\publish\actions.deps.json
-C:\Projects\actions\bin\Debug\net7.0\publish\actions.runtimeconfig.json
-C:\Projects\actions\bin\Debug\net7.0\publish\appsettings.Development.json
-C:\Projects\actions\bin\Debug\net7.0\publish\appsettings.json
